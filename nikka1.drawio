@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T21:02:57.754Z" agent="5.0 (Windows)" etag="a-2NMu-SUvx-PH3KNTSF" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-23T21:06:30.671Z" agent="5.0 (Windows)" etag="aEfJs0p96fYcOKYErDs9" version="14.9.2" type="github">
   <diagram id="ggf2usPorNdX9x693DGo" name="Page-1">
     <mxGraphModel dx="1822" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,8 +72,14 @@
         <mxCell id="4rcX--6uyM_ahGE6yn0v-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="g03nTtScG-hAA8EhMata-3" target="4rcX--6uyM_ahGE6yn0v-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-17" target="4rcX--6uyM_ahGE6yn0v-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-17" value="&lt;div&gt;&lt;b&gt;Никки&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Мне нужно лететь на Элиду и как можно скорее... А то все мои гвайские штрамусы и панайские гварцепалы стухнут. Я потеряю кучу денег, а потом еще и боксы очищать от лейкой цитозы.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Или я могу рассчитывать на вашу помощь и финансовую компенсацию?&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-270" y="750" width="420" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-20" value="&lt;div&gt;&lt;b&gt;Грустный охранник&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Вернитесь пожалуйста в комнату и закройте дверь. В прекрасно понимаете всю сложность ситуации и знаете порядок при подобных происшествиях.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Позже поговорите с капитаном, возможно он сможет что-то придумать.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="870" width="420" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
