@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T05:47:18.482Z" agent="5.0 (Windows)" etag="LkZDKkV5xyHUgrznznXo" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T05:55:40.693Z" agent="5.0 (Windows)" etag="Dx7P7atgaGiMowifx4Yv" version="14.9.2" type="github">
   <diagram id="ggf2usPorNdX9x693DGo" name="Page-1">
     <mxGraphModel dx="1822" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
         <mxCell id="g03nTtScG-hAA8EhMata-26" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="g03nTtScG-hAA8EhMata-15" target="g03nTtScG-hAA8EhMata-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g03nTtScG-hAA8EhMata-15" value="&lt;div&gt;Никка 1701 - курьер небольшой торговой компании федерации Кано 3.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Прибыла на дозаправку, но застряла по причине объявленного карантина и не может её покинуть&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="g03nTtScG-hAA8EhMata-15" value="&lt;div&gt;Никка 1701 - курьер небольшой торговой компании &quot;Скоротечный хвой&quot; федерации Кано 3.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Прибыла на дозаправку, но застряла по причине объявленного карантина и не может её покинуть&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-180" y="180" width="330" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-2" target="g03nTtScG-hAA8EhMata-2">
@@ -102,7 +102,7 @@
         <mxCell id="4rcX--6uyM_ahGE6yn0v-25" value="&lt;div&gt;&lt;b&gt;Грустный охранник&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Уважаемая Никки! Зачем вы пугаете народ своими истошными криками?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;На станции вы обеспечены всем необходимым&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;На время карантина проблем быть не должно.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Я зайду к Вам через час с ужином!&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="190" y="820" width="370" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="4rcX--6uyM_ahGE6yn0v-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-29" target="g03nTtScG-hAA8EhMata-2">
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-29" target="g03nTtScG-hAA8EhMata-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="590" y="1010" />
@@ -122,7 +122,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4rcX--6uyM_ahGE6yn0v-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.638;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-35" target="g03nTtScG-hAA8EhMata-2">
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.638;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-35" target="g03nTtScG-hAA8EhMata-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="860" y="190" />
@@ -137,6 +137,46 @@
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g03nTtScG-hAA8EhMata-23" target="4rcX--6uyM_ahGE6yn0v-35">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-38" target="4rcX--6uyM_ahGE6yn0v-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-38" value="Никки достала массивную рацию из своего чемодана" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="640" y="300" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g03nTtScG-hAA8EhMata-24" target="4rcX--6uyM_ahGE6yn0v-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="603" />
+              <mxPoint x="610" y="280" />
+              <mxPoint x="860" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-40" target="4rcX--6uyM_ahGE6yn0v-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-40" value="&lt;div&gt;&lt;b&gt;Никки&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Скоротечный Хвой 1701 для Элида 3, &quot;Кварцевые стробаты&quot;, красной морде...&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="640" y="360" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-41" target="4rcX--6uyM_ahGE6yn0v-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-41" value="&lt;div&gt;&lt;b&gt;Никки&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Скоротечный Хвой 1701 для Элида 3, &quot;Кварцевые стробаты&quot;, красной морде...&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="640" y="440" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.703;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#b85450;fillColor=#f8cecc;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-44" target="g03nTtScG-hAA8EhMata-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="580" />
+              <mxPoint x="620" y="580" />
+              <mxPoint x="620" y="430" />
+              <mxPoint x="450" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-44" value="Связи нет. Возможно Никки находится очень далеко от звездной системы Элида" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="640" y="520" width="440" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
