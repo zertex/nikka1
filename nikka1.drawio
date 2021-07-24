@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T06:40:50.334Z" agent="5.0 (Windows)" etag="j-IMdU4IuV1jJUW8sCSa" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T07:02:12.046Z" agent="5.0 (Windows)" etag="S5hJgJJFP-Ll_8THmJa2" version="14.9.2" type="github">
   <diagram id="ggf2usPorNdX9x693DGo" name="Page-1">
     <mxGraphModel dx="2622" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,13 +58,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-11" value="Как только Никка открыла дверь, путь ей перегородил грустный охранник станции." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="550" width="420" height="60" as="geometry" />
+          <mxGeometry x="-930" y="556" width="420" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-12" target="4rcX--6uyM_ahGE6yn0v-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-12" value="&lt;div&gt;&lt;b&gt;Грустный охранник&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Уважаемая Никки. На борту объявлен карантин, красный уровень опасности.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;К моему великому сожалению вам запрещено покидать свою каюту.&lt;/div&gt;&lt;div&gt;Наш капитан заботится о вашей безопасности.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="630" width="420" height="100" as="geometry" />
+          <mxGeometry x="-930" y="630" width="420" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g03nTtScG-hAA8EhMata-4" target="4rcX--6uyM_ahGE6yn0v-11">
           <mxGeometry relative="1" as="geometry" />
@@ -76,51 +76,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-17" value="&lt;div&gt;&lt;b&gt;Никки&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Мне нужно лететь на Элиду и как можно скорее... А то все мои гвайские штрамусы и панайские гварцепалы стухнут. Я потеряю кучу денег, а потом еще и боксы очищать от лейкой цитозы.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Или я могу рассчитывать на вашу помощь и финансовую компенсацию?&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="750" width="420" height="100" as="geometry" />
+          <mxGeometry x="-930" y="750" width="420" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.062;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-20" target="g03nTtScG-hAA8EhMata-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-490" y="925" />
+              <mxPoint x="-490" y="440" />
+              <mxPoint x="213" y="440" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-20" value="&lt;div&gt;&lt;b&gt;Грустный охранник&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Вернитесь пожалуйста в каюту и закройте дверь. Вы прекрасно понимаете всю сложность ситуации и знаете порядок при подобных происшествиях.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Позже попробуйте поговорите с начальником станции, возможно он сможет что-то придумать.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="870" width="420" height="110" as="geometry" />
+          <mxGeometry x="-930" y="870" width="420" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-23" target="4rcX--6uyM_ahGE6yn0v-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-23" value="&lt;div&gt;&lt;b&gt;Никки&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Караул! Помогите! Дралоскоп заклинило!&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="190" y="660" width="370" height="70" as="geometry" />
+          <mxGeometry x="-470" y="645" width="370" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-24" target="4rcX--6uyM_ahGE6yn0v-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-24" value="Грустный охранник станции неторопливо заглянул в комнату" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="190" y="750" width="370" height="50" as="geometry" />
+          <mxGeometry x="-470" y="730" width="370" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-25" target="4rcX--6uyM_ahGE6yn0v-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-25" value="&lt;div&gt;&lt;b&gt;Грустный охранник&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Уважаемая Никки! Зачем вы пугаете народ своими истошными криками?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;На станции вы обеспечены всем необходимым&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;На время карантина проблем быть не должно.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Я зайду к Вам через час с ужином!&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="190" y="820" width="370" height="140" as="geometry" />
+          <mxGeometry x="-470" y="800" width="370" height="140" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-29" target="g03nTtScG-hAA8EhMata-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="590" y="1010" />
-              <mxPoint x="590" y="440" />
-              <mxPoint x="401" y="440" />
+              <mxPoint x="-80" y="980" />
+              <mxPoint x="-80" y="430" />
+              <mxPoint x="401" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-29" value="&lt;div&gt;Дверь с грохотом закрылась и Никки снова осталась в запертой каюте ожидать окончания снятия карантина&lt;/div&gt;&lt;font color=&quot;#EA6B66&quot;&gt;&lt;b&gt;help1 = 1&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="190" y="980" width="370" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4rcX--6uyM_ahGE6yn0v-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g03nTtScG-hAA8EhMata-5" target="4rcX--6uyM_ahGE6yn0v-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="580" y="551" />
-              <mxPoint x="580" y="695" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="-470" y="960" width="370" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.638;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-35" target="g03nTtScG-hAA8EhMata-2">
           <mxGeometry relative="1" as="geometry">
@@ -183,6 +181,87 @@
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-48" value="&lt;div&gt;&lt;font color=&quot;#EA6B66&quot;&gt;&lt;b&gt;help1 = 0&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Количество просьб о помощи&lt;br&gt;&lt;/div&gt;&lt;div&gt;=2 - охранник уходит и можно выйти&lt;/div&gt;&lt;div&gt;&amp;gt;2 - охранник больше не приходит&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4rcX--6uyM_ahGE6yn0v-47">
           <mxGeometry x="10" y="30" width="390" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-55" value="help = 0" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="580" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-56" target="4rcX--6uyM_ahGE6yn0v-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-56" value="help = 1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="70" y="645" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-57" value="help = 2" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="420" y="710" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="g03nTtScG-hAA8EhMata-5" target="4rcX--6uyM_ahGE6yn0v-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-60" value="" style="endArrow=classic;html=1;strokeColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-55" target="4rcX--6uyM_ahGE6yn0v-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="760" as="sourcePoint" />
+            <mxPoint x="120" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-285" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-61" value="Да" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4rcX--6uyM_ahGE6yn0v-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-62" value="" style="endArrow=classic;html=1;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-55" target="4rcX--6uyM_ahGE6yn0v-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="730" as="sourcePoint" />
+            <mxPoint x="70" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-63" value="Нет" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4rcX--6uyM_ahGE6yn0v-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-64" value="" style="endArrow=classic;html=1;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-56" target="4rcX--6uyM_ahGE6yn0v-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-90" y="610" as="sourcePoint" />
+            <mxPoint x="150" y="655" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-65" value="Нет" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4rcX--6uyM_ahGE6yn0v-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-66" target="4rcX--6uyM_ahGE6yn0v-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-66" value="&lt;div&gt;&lt;b&gt;Никки&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Караул! Помогите! Расход кислорода в отсеке бесполезного груза удвоился в три раза!&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-52.5" y="720" width="385" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-69" target="4rcX--6uyM_ahGE6yn0v-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-69" value="&lt;div&gt;На этот раз грустный охранник просто влетел в кубрик Никки&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Как раз на прошлой неделе по его ошибке этот отсек чуть не отстыковало от станции&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-52.5" y="820" width="382.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-72" target="4rcX--6uyM_ahGE6yn0v-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-72" value="&lt;div&gt;&lt;b&gt;Грустный охранник&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Вы только не переживайте!&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Я сейчас быстро сбегаю и все проверю.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Пока сядьте и дышите ровное, все будет хорошо!&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-52.5" y="920" width="382.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.13;entryY=0.006;entryDx=0;entryDy=0;strokeColor=#d6b656;fillColor=#fff2cc;entryPerimeter=0;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-74" target="g03nTtScG-hAA8EhMata-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-70" y="1070" />
+              <mxPoint x="-70" y="420" />
+              <mxPoint x="238" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-74" value="&lt;div&gt;Грустный охранник пулей выпрыгнул из каюты и куда-то помчался в темноту душного и длинного&lt;br&gt;&lt;/div&gt;&lt;font color=&quot;#EA6B66&quot;&gt;&lt;b&gt;help1 = 2&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-52.5" y="1040" width="382.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
