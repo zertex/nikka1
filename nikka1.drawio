@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T05:24:43.218Z" agent="5.0 (Windows)" etag="pvd-j0XMo0OUWNSJTu2h" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T05:42:10.245Z" agent="5.0 (Windows)" etag="xTX4RGfvNOXFEaHZKk87" version="14.9.2" type="github">
   <diagram id="ggf2usPorNdX9x693DGo" name="Page-1">
     <mxGraphModel dx="1822" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
         <mxCell id="4rcX--6uyM_ahGE6yn0v-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-12" target="4rcX--6uyM_ahGE6yn0v-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4rcX--6uyM_ahGE6yn0v-12" value="&lt;div&gt;&lt;b&gt;Грустный охранник&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Уважаемая Никки. На борту объявлен карантин, красный уровень опасности.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;К моему великому сожалению вам запрещено покидать свою комнату.&lt;/div&gt;&lt;div&gt;Наш капитан заботится о вашей безопасности.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-12" value="&lt;div&gt;&lt;b&gt;Грустный охранник&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Уважаемая Никки. На борту объявлен карантин, красный уровень опасности.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;К моему великому сожалению вам запрещено покидать свою каюту.&lt;/div&gt;&lt;div&gt;Наш капитан заботится о вашей безопасности.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-270" y="630" width="420" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g03nTtScG-hAA8EhMata-4" target="4rcX--6uyM_ahGE6yn0v-11">
@@ -81,8 +81,46 @@
         <mxCell id="4rcX--6uyM_ahGE6yn0v-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.062;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-20" target="g03nTtScG-hAA8EhMata-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4rcX--6uyM_ahGE6yn0v-20" value="&lt;div&gt;&lt;b&gt;Грустный охранник&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Вернитесь пожалуйста в комнату и закройте дверь. Вы прекрасно понимаете всю сложность ситуации и знаете порядок при подобных происшествиях.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Позже попробуйте поговорите с начальником станции, возможно он сможет что-то придумать.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="870" width="420" height="100" as="geometry" />
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-20" value="&lt;div&gt;&lt;b&gt;Грустный охранник&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Вернитесь пожалуйста в каюту и закройте дверь. Вы прекрасно понимаете всю сложность ситуации и знаете порядок при подобных происшествиях.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Позже попробуйте поговорите с начальником станции, возможно он сможет что-то придумать.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="870" width="420" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-23" target="4rcX--6uyM_ahGE6yn0v-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-23" value="&lt;div&gt;&lt;b&gt;Никки&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Караул! Помогите! Дралоскоп заклинило!&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="660" width="370" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-24" target="4rcX--6uyM_ahGE6yn0v-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-24" value="Грустный охранник станции неторопливо заглянул в комнату" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="750" width="370" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-25" target="4rcX--6uyM_ahGE6yn0v-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-25" value="&lt;div&gt;&lt;b&gt;Грустный охранник&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Уважаемая Никки! Зачем вы пугаете народ своими истошными криками?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;На станции вы обеспечены всем необходимым&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;На время карантина проблем быть не должно.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Я зайду к Вам через час с ужином!&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="820" width="370" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-29" target="g03nTtScG-hAA8EhMata-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="1010" />
+              <mxPoint x="590" y="440" />
+              <mxPoint x="401" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-29" value="Дверь с грохотом закрылась и Никки снова осталась в запертой каюте ожидать окончания снятия карантина" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="980" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g03nTtScG-hAA8EhMata-5" target="4rcX--6uyM_ahGE6yn0v-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="551" />
+              <mxPoint x="580" y="695" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
