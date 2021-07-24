@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T07:14:46.349Z" agent="5.0 (Windows)" etag="g6NN-8dvmRcn6RmBjn7X" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T07:17:16.396Z" agent="5.0 (Windows)" etag="-WTjB8Yx0oECq1Ns144H" version="14.9.2" type="github">
   <diagram id="ggf2usPorNdX9x693DGo" name="Page-1">
     <mxGraphModel dx="2622" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,16 +58,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-11" value="Как только Никка открыла дверь, путь ей перегородил грустный охранник станции." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-930" y="556" width="420" height="60" as="geometry" />
+          <mxGeometry x="-930" y="700" width="420" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-12" target="4rcX--6uyM_ahGE6yn0v-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-12" value="&lt;div&gt;&lt;b&gt;Грустный охранник&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Уважаемая Никки. На борту объявлен карантин, красный уровень опасности.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;К моему великому сожалению вам запрещено покидать свою каюту.&lt;/div&gt;&lt;div&gt;Наш капитан заботится о вашей безопасности.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-930" y="630" width="420" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="4rcX--6uyM_ahGE6yn0v-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g03nTtScG-hAA8EhMata-4" target="4rcX--6uyM_ahGE6yn0v-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-930" y="770" width="420" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="g03nTtScG-hAA8EhMata-3" target="4rcX--6uyM_ahGE6yn0v-6">
           <mxGeometry relative="1" as="geometry" />
@@ -76,19 +73,20 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-17" value="&lt;div&gt;&lt;b&gt;Никки&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Мне нужно лететь на Элиду и как можно скорее... А то все мои гвайские штрамусы и панайские гварцепалы стухнут. Я потеряю кучу денег, а потом еще и боксы очищать от лейкой цитозы.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Или я могу рассчитывать на вашу помощь и финансовую компенсацию?&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-930" y="750" width="420" height="100" as="geometry" />
+          <mxGeometry x="-930" y="890" width="420" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.062;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-20" target="g03nTtScG-hAA8EhMata-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-490" y="925" />
+              <mxPoint x="-720" y="1130" />
+              <mxPoint x="-490" y="1130" />
               <mxPoint x="-490" y="440" />
               <mxPoint x="213" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-20" value="&lt;div&gt;&lt;b&gt;Грустный охранник&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Вернитесь пожалуйста в каюту и закройте дверь. Вы прекрасно понимаете всю сложность ситуации и знаете порядок при подобных происшествиях.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Позже попробуйте поговорите с начальником станции, возможно он сможет что-то придумать.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-930" y="870" width="420" height="110" as="geometry" />
+          <mxGeometry x="-930" y="1010" width="420" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-23" target="4rcX--6uyM_ahGE6yn0v-24">
           <mxGeometry relative="1" as="geometry" />
@@ -309,6 +307,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-82" value="Да" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4rcX--6uyM_ahGE6yn0v-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-85" value="help &amp;gt;= 2" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-930" y="576" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="g03nTtScG-hAA8EhMata-4" target="4rcX--6uyM_ahGE6yn0v-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-87" value="" style="endArrow=classic;html=1;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-720" y="630" as="sourcePoint" />
+            <mxPoint x="-720" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-720" y="596" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-88" value="Нет" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4rcX--6uyM_ahGE6yn0v-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
