@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T17:05:37.578Z" agent="5.0 (Windows)" etag="iUjTY_oflGirrepYUT6h" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-25T17:11:54.649Z" agent="5.0 (Windows)" etag="xK_oIfbe7NIn_0qF5sND" version="14.9.2" type="github">
   <diagram id="ggf2usPorNdX9x693DGo" name="Page-1">
     <mxGraphModel dx="2622" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="4rcX--6uyM_ahGE6yn0v-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g03nTtScG-hAA8EhMata-12" target="4rcX--6uyM_ahGE6yn0v-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g03nTtScG-hAA8EhMata-12" value="&lt;div&gt;&lt;b&gt;Никка&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Прошло больше суток после объявления карантина на этой несчастной станции&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;С завтрашнего дня придется платить неустойку за просроченную доставку груза из 3-го бокса&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Наверняка система безопасности этой дряхлой станции дала сбой, а этим разгильдяем лень ковыряться в этом космическом мусоре&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="g03nTtScG-hAA8EhMata-12" value="&lt;div&gt;&lt;b&gt;Никка&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Прошло больше суток после объявления карантина на этой несчастной станции&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;С завтрашнего дня придется платить неустойку за просроченную доставку груза из 3-го бокса&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Наверняка система безопасности этой дряхлой станции дала сбой, а этим разгильдяям лень ковыряться в этом космическом мусоре&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="190" y="70" width="370" height="160" as="geometry" />
         </mxCell>
         <mxCell id="g03nTtScG-hAA8EhMata-25" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="g03nTtScG-hAA8EhMata-13" target="g03nTtScG-hAA8EhMata-15" edge="1">
@@ -39,7 +39,7 @@
         <mxCell id="g03nTtScG-hAA8EhMata-26" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="g03nTtScG-hAA8EhMata-15" target="g03nTtScG-hAA8EhMata-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g03nTtScG-hAA8EhMata-15" value="&lt;div&gt;Никка 1701 - курьер небольшой торговой компании &quot;Скоротечный хвой&quot; федерации Кано 3.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Прибыла на дозаправку, но застряла по причине карантина. Покинуть станцию в настоящий момент невозможно&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="g03nTtScG-hAA8EhMata-15" value="&lt;div&gt;Никка 1701 - курьер небольшой торговой компании &quot;Скоротечный Хвой&quot; КосмоФедерации Кано 3.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Прибыла на дозаправку, но застряла по причине карантина. Покинуть станцию в настоящий момент невозможно&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-180" y="180" width="330" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-2" target="g03nTtScG-hAA8EhMata-2">
