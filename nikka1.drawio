@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T17:26:41.486Z" agent="5.0 (Windows)" etag="eJNKBZiDKTo0D_ny8yP2" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-25T17:59:15.989Z" agent="5.0 (Windows)" etag="3hfzPiVN1Y0gBvY_uNCq" version="14.9.2" type="github">
   <diagram id="ggf2usPorNdX9x693DGo" name="Page-1">
     <mxGraphModel dx="2622" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -243,7 +243,7 @@
         <mxCell id="4rcX--6uyM_ahGE6yn0v-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-72" target="4rcX--6uyM_ahGE6yn0v-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4rcX--6uyM_ahGE6yn0v-72" value="&lt;div&gt;&lt;b&gt;Грустный охранник&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Вы только не переживайте!&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Я сейчас быстро сбегаю и все проверю.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Пока сядьте и дышите ровное, все будет хорошо!&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4rcX--6uyM_ahGE6yn0v-72" value="&lt;div&gt;&lt;b&gt;Грустный охранник&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Вы только не переживайте!&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Я сейчас быстро сбегаю и все проверю.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Пока сядьте и дышите ровнее, все будет хорошо!&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-52.5" y="920" width="382.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4rcX--6uyM_ahGE6yn0v-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.13;entryY=0.006;entryDx=0;entryDy=0;strokeColor=#d6b656;fillColor=#fff2cc;entryPerimeter=0;" edge="1" parent="1" source="4rcX--6uyM_ahGE6yn0v-74" target="g03nTtScG-hAA8EhMata-2">
